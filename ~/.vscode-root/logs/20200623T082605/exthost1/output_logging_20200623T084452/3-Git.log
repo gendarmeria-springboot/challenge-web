@@ -1,0 +1,52 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/yeti/Documents/redsalud/git/sap-im-repos
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/test-params
+> git rev-parse --symbolic-full-name feature/test-params@{u}
+fatal: no upstream configured for branch 'feature/test-params'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/yeti/Documents/redsalud/git/sap-im-repos/in_otc_003/t_vac_recaudacion_indexs.sql
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/test-params
+> git rev-parse --symbolic-full-name feature/test-params@{u}
+fatal: no upstream configured for branch 'feature/test-params'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/test-params
+> git rev-parse --symbolic-full-name feature/test-params@{u}
+fatal: no upstream configured for branch 'feature/test-params'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/test-params
+> git rev-parse --symbolic-full-name feature/test-params@{u}
+fatal: no upstream configured for branch 'feature/test-params'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse feature/test-params
+> git rev-parse --symbolic-full-name feature/test-params@{u}
+> git rev-list --left-right feature/test-params...refs/remotes/origin/feature/test-params
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

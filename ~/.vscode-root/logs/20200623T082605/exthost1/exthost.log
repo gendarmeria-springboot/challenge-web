@@ -1,0 +1,202 @@
+[2020-06-23 08:26:08.059] [exthost] [info] extension host started
+[2020-06-23 08:26:08.090] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-23 08:26:08.090] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-23 08:26:08.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:08.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-06-23 08:26:08.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:08.101] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-23 08:26:08.116] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:08.116] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2020-06-23 08:26:08.120] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:08.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/dist/intellicode
+[2020-06-23 08:26:08.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-23 08:26:08.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-23 08:26:08.230] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-23 08:26:08.230] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-23 08:26:08.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-23 08:26:08.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-23 08:26:08.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-23 08:26:08.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-23 08:26:08.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-23 08:26:08.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-23 08:26:08.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-23 08:26:08.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-23 08:26:08.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-23 08:26:08.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-06-23 08:26:08.286] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-06-23 08:26:08.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/alefragnani.project-manager-10.12.0/dist/extension
+[2020-06-23 08:26:08.289] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-23 08:26:08.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-23 08:26:08.300] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-23 08:26:08.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-23 08:26:08.304] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-06-23 08:26:08.304] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/editorconfig.editorconfig-0.15.1/out/editorConfigMain.js
+[2020-06-23 08:26:08.319] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-06-23 08:26:08.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-06-23 08:26:08.325] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-06-23 08:26:08.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-06-23 08:26:08.331] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-23 08:26:08.331] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-23 08:26:08.332] [exthost] [info] ExtensionService#_doActivateExtension ryanluker.vscode-coverage-gutters {"startup":true,"extensionId":{"value":"ryanluker.vscode-coverage-gutters","_lower":"ryanluker.vscode-coverage-gutters"},"activationEvent":"*"}
+[2020-06-23 08:26:08.332] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/ryanluker.vscode-coverage-gutters-2.4.3/out/src/extension
+[2020-06-23 08:26:08.535] [exthost] [info] ExtensionService#_doActivateExtension silverbulleters.sonarqube-inject {"startup":true,"extensionId":{"value":"silverbulleters.sonarqube-inject","_lower":"silverbulleters.sonarqube-inject"},"activationEvent":"*"}
+[2020-06-23 08:26:08.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/silverbulleters.sonarqube-inject-2.1.0/out/src/extension
+[2020-06-23 08:26:08.595] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-06-23 08:26:08.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-06-23 08:26:08.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-06-23 08:26:08.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-06-23 08:26:09.452] [exthost] [info] eager extensions activated
+[2020-06-23 08:26:18.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-23 08:26:18.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-23 08:26:18.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-23 08:26:18.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-23 08:26:20.787] [exthost] [info] extension host started
+[2020-06-23 08:26:20.801] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-23 08:26:20.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-23 08:26:20.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-23 08:26:20.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-23 08:26:20.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-23 08:26:20.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-23 08:26:20.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-23 08:26:20.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-23 08:26:20.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-23 08:26:20.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-23 08:26:20.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-23 08:26:20.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-23 08:26:20.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-23 08:26:20.837] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-23 08:26:20.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-23 08:26:20.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-06-23 08:26:20.840] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-06-23 08:26:20.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/alefragnani.project-manager-10.12.0/dist/extension
+[2020-06-23 08:26:20.842] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-23 08:26:20.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-23 08:26:20.859] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-23 08:26:20.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-23 08:26:20.863] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-06-23 08:26:20.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/editorconfig.editorconfig-0.15.1/out/editorConfigMain.js
+[2020-06-23 08:26:20.877] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-06-23 08:26:20.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-06-23 08:26:20.889] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-06-23 08:26:20.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-06-23 08:26:20.900] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-23 08:26:20.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-23 08:26:20.902] [exthost] [info] ExtensionService#_doActivateExtension ryanluker.vscode-coverage-gutters {"startup":true,"extensionId":{"value":"ryanluker.vscode-coverage-gutters","_lower":"ryanluker.vscode-coverage-gutters"},"activationEvent":"*"}
+[2020-06-23 08:26:20.902] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/ryanluker.vscode-coverage-gutters-2.4.3/out/src/extension
+[2020-06-23 08:26:21.165] [exthost] [info] ExtensionService#_doActivateExtension silverbulleters.sonarqube-inject {"startup":true,"extensionId":{"value":"silverbulleters.sonarqube-inject","_lower":"silverbulleters.sonarqube-inject"},"activationEvent":"*"}
+[2020-06-23 08:26:21.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/silverbulleters.sonarqube-inject-2.1.0/out/src/extension
+[2020-06-23 08:26:21.263] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-06-23 08:26:21.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-06-23 08:26:21.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-06-23 08:26:21.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2020-06-23 08:26:21.710] [exthost] [info] eager extensions activated
+[2020-06-23 08:26:50.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:50.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-06-23 08:26:50.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:50.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-06-23 08:26:50.961] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin {"startup":false,"extensionId":{"value":"ms-vscode.vscode-typescript-tslint-plugin","_lower":"ms-vscode.vscode-typescript-tslint-plugin"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:50.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.3/out/index.js
+[2020-06-23 08:26:50.965] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:typescript"}
+[2020-06-23 08:26:50.965] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/dist/intellicode
+[2020-06-23 08:26:58.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-23 08:26:58.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-06-23 08:26:58.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-23 08:26:58.179] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-06-23 08:30:02.449] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-06-23 08:30:02.745] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:30:02.746] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:30:11.386] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:30:11.386] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:30:33.029] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:30:33.029] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:31:35.911] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:31:35.911] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:31:55.450] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:31:55.450] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:32:47.187] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:32:47.187] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:32:48.508] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:32:48.508] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:33:03.095] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:33:03.095] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:33:06.425] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:33:06.426] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:01.705] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:01.705] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:03.757] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:03.757] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:06.439] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:06.440] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:15.326] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:15.326] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:21.952] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:21.952] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:34:29.106] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:34:29.106] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:35:37.910] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:35:37.910] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:35:39.197] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:35:39.198] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:36:16.687] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:36:16.687] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:36:23.492] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-23 08:36:23.492] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-06-23 08:44:52.476] [exthost] [info] extension host started
+[2020-06-23 08:44:52.486] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-23 08:44:52.486] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-23 08:44:52.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-23 08:44:52.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-23 08:44:52.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-23 08:44:52.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-23 08:44:52.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-23 08:44:52.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-23 08:44:52.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-23 08:44:52.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-06-23 08:44:52.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-23 08:44:52.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-23 08:44:52.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-23 08:44:52.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-23 08:44:52.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-23 08:44:52.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-06-23 08:44:52.518] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-06-23 08:44:52.518] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/alefragnani.project-manager-10.12.0/dist/extension
+[2020-06-23 08:44:52.520] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-23 08:44:52.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-23 08:44:52.532] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-23 08:44:52.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5/client/out/extension
+[2020-06-23 08:44:52.536] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-06-23 08:44:52.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/editorconfig.editorconfig-0.15.1/out/editorConfigMain.js
+[2020-06-23 08:44:52.547] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-06-23 08:44:52.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-06-23 08:44:52.554] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-06-23 08:44:52.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.1.4/out/src/extension
+[2020-06-23 08:44:52.560] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-06-23 08:44:52.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/formulahendry.auto-close-tag-0.5.7/out/src/extension
+[2020-06-23 08:44:52.561] [exthost] [info] ExtensionService#_doActivateExtension ryanluker.vscode-coverage-gutters {"startup":true,"extensionId":{"value":"ryanluker.vscode-coverage-gutters","_lower":"ryanluker.vscode-coverage-gutters"},"activationEvent":"*"}
+[2020-06-23 08:44:52.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/ryanluker.vscode-coverage-gutters-2.4.3/out/src/extension
+[2020-06-23 08:44:52.687] [exthost] [info] ExtensionService#_doActivateExtension silverbulleters.sonarqube-inject {"startup":true,"extensionId":{"value":"silverbulleters.sonarqube-inject","_lower":"silverbulleters.sonarqube-inject"},"activationEvent":"*"}
+[2020-06-23 08:44:52.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/silverbulleters.sonarqube-inject-2.1.0/out/src/extension
+[2020-06-23 08:44:52.730] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-06-23 08:44:52.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-06-23 08:44:52.986] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":true,"extensionId":{"value":"vscjava.vscode-maven","_lower":"vscjava.vscode-maven"},"activationEvent":"workspaceContains:**/pom.xml"}
+[2020-06-23 08:44:52.986] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/yeti/.vscode/extensions/vscjava.vscode-maven-0.22.0/dist/extension
+[2020-06-23 08:44:53.102] [exthost] [info] eager extensions activated

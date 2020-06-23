@@ -1,0 +1,8 @@
+The configuration 'editor.suggestSelection' will be set to 'first' since the default value 'recentlyUsed' may cause you to not see IntelliCode completions.
+You can configure this behavior with the setting 'vsintellicode.modify.editor.suggestSelection'.
+Acquiring model 'intellisense-members' for sql
+Querying IntelliCode service for available models.
+The configuration 'editor.suggestSelection' has been set to 'first'.
+Cached model is up to date.
+vs-intellicode-SQL was passed a model: {"modelId":"99136CA159AB897D942412E976015B8C9EC2","modelPath":"/home/yeti/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8/cache/99136CA159AB897D942412E976015B8C9EC2_6D6727BA7E6347BE9124EF572943AC5C","outputId":"6D6727BA7E6347BE9124EF572943AC5C"}.
+Loaded language server extension.
