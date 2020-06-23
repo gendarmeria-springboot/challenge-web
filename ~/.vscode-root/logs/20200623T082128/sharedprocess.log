@@ -1,3 +1,0 @@
-[2020-06-23 08:21:31.602] [sharedprocess] [info] main {"machineId":"5e873566409f8824e126d12247c58f52711c12e9d8d3a61f7bdb3f2c86245c21","windowId":2}
-[2020-06-23 08:21:31.643] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/yeti/Documents/apps/gendarmeria/challenge/challenge-web/~/.vscode-root/User/snippets'
-[2020-06-23 08:22:11.619] [sharedprocess] [info] Starting to clean up unused language packs.
