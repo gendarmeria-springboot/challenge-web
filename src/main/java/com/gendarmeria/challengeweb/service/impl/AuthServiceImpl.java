@@ -21,8 +21,14 @@ public class AuthServiceImpl implements AuthService{
 
 	@Override
 	public TokenDTO login(LoginDTO body) {
+		
+		//Mapeo a DTO del MS de destino (LoginDTO(ms challenge-web) -> LoginDTO(ms auth)
 		LoginFeignRequest loginFeignRequest = Factory.getLoginFeignRequest(body);
+		
+		//Invocando al MS AUTH a través de HystrixCommand
 		TokenDTO response = this.authCommand.login(loginFeignRequest);
+		
+		//retorno al controlador
 		return response;
 	}
 

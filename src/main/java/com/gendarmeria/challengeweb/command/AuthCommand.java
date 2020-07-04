@@ -9,6 +9,7 @@ import com.gendarmeria.challengeweb.factory.Factory;
 import com.gendarmeria.challengeweb.feign.client.AuthFeignClient;
 import com.gendarmeria.challengeweb.feign.request.LoginFeignRequest;
 import com.gendarmeria.challengeweb.feign.response.TokenFeignResponse;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @Component
 public class AuthCommand {
@@ -16,10 +17,19 @@ public class AuthCommand {
 	@Autowired
 	private AuthFeignClient authFeignClient;
 
+	@HystrixCommand(fallbackMethod = "loginError")
 	public TokenDTO login(LoginFeignRequest loginFeignRequest) {
+		// Invocando al end point auth/login -> (ms auth)
 		ResponseEntity<TokenFeignResponse> responseEntity = this.authFeignClient.login(loginFeignRequest);
-		TokenDTO response = Factory.getTokenDTO(responseEntity.getBody());
-		return response ;
+		
+		// Obteniendo el json de respuesta (DTO) del endpoint auth/login -> (ms auth)
+		TokenFeignResponse tokenFeingResponse = responseEntity.getBody();
+		
+		// Retorno del mapeo de respuesta al service.
+		return Factory.getTokenDTO(tokenFeingResponse);
 	}
-
+	
+	public TokenDTO loginError(LoginFeignRequest loginFeignRequest) {
+		return null;	
+	}
 }
