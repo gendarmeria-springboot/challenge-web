@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.gendarmeria.challengeweb.dto.LoginDTO;
 import com.gendarmeria.challengeweb.dto.ProfileDTO;
 import com.gendarmeria.challengeweb.dto.TokenDTO;
+import com.gendarmeria.challengeweb.exception.ChallengeWebException;
 import com.gendarmeria.challengeweb.service.AuthService;
 @RestController
 @RequestMapping(value = "/auth")
@@ -28,7 +29,7 @@ public class AuthController {
 	
 	//http://localhost:10000/auth/login : -> body {userName:<username>, password: <password>}
 	@PostMapping(value = "/login", produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<TokenDTO> login(@RequestBody LoginDTO body) {
+	public ResponseEntity<TokenDTO> login(@RequestBody LoginDTO body) throws ChallengeWebException {
 		TokenDTO token = this.authService.login(body);
 		return ResponseEntity.ok(token);
 	}
