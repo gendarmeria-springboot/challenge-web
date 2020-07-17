@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: "dev"
+  application:
+    name: challenge-web
+  cloud:
+    config:
+      uri: "http://localhost:9999"
